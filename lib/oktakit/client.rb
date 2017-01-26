@@ -178,7 +178,7 @@ module Oktakit
     end
 
     def api_endpoint
-      "https://#{@organization}.okta.com/api/v1/"
+      "https://#{@organization}.oktapreview.com/api/v1/"
     end
   end
 end
